@@ -8,3 +8,5 @@ The repository contains source code for paper "Urban Sound Classification using 
 * results - data presented in paper as images
 
 * folds.txt - folds used for experiment
+
+* logs.zip - full logs of presented experiment
